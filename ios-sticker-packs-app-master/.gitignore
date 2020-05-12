@@ -1,0 +1,12 @@
+fabric.apikey
+fabric.buildsecret
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+**/*.framework/*
+
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

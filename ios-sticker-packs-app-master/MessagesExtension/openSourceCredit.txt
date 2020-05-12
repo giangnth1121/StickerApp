@@ -1,0 +1,1 @@
+This iMessage sticker app is open source (github.com/fluffcorn).
